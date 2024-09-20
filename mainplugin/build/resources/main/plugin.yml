@@ -1,0 +1,8 @@
+name: mainplugin
+version: '1.0-SNAPSHOT'
+main: org.zach.mainplugin.Mainplugin
+api-version: '1.20'
+commands:
+  begin:
+    description: get a cool sword
+    usage: /<command>
